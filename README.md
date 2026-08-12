@@ -32,4 +32,3 @@ Data science graduate looking for opportunities in machine learning / data analy
 
 ---
 
-⭐ Pin these repos on your profile (Customize your pins) once they're live, and keep this table's links up to date as you add more projects.
