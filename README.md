@@ -9,10 +9,10 @@ below before publishing.
 
 Data science graduate looking for opportunities in machine learning / data analysis. Background in classical ML, SQL, and deep learning across tabular, time-series, and image data.
 
-**Currently open to:** [job title(s) you're targeting] — feel free to add a line here.
+**Currently open to:** Data Scientist, Machine Learning Engineer, Data Analyst, or Junior AI/ML roles.
 
-📫 [LinkedIn] · [Email] · [CV]
 
+📫 [LinkedIn](https://www.linkedin.com/in/feno-andrianary-5b534a19b/) · [Email](mailto:andrianaryfeno9@gmail.com) 
 ---
 
 ### Featured Projects
